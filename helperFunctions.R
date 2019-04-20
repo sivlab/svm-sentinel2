@@ -17,11 +17,8 @@ istruzioni <- function(){
     message1 <- "Per il corretto funzionamento di questo script sono necessarie alcune librerie.
   Il software tenta di installarle automaticamente, ma se ci dovessero essere problemi, di seguito si elencano le librerie da INSTALLARE e CARICARE:
   -tools
-  -stringr
   -raster
-  -LSRS
   -rgdal
-  -rlist
   -tictoc
   -tcltk2
   -e1071

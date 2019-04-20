@@ -7,7 +7,7 @@ cat("\014")
 
 #-----------------VARIABILI DA SETTARE-----------------#
 #Settare a TRUE se si vogliono mostrare le istruzioni all'avvio dello script
-instructions <- TRUE
+instructions <- FALSE
 
 #Variabile che se settata a TRUE, mostra in console una serie di informazioni utili per il debug
 #Ad es. tempi di completamento delle singole sezioni di codice, messaggi, etc

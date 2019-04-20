@@ -1,0 +1,9 @@
+{
+    "path" : "~/github/svm-sentinel2",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

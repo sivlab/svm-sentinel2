@@ -1,7 +1,7 @@
 checkDependencies <- function(){
   #-------------------CHECK DEPENDENCIES-------------------#
   #Lista di pacchetti
-  list_of_packages <- c("tools","stringr","raster","LSRS","rgdal","rlist","tictoc","tcltk2","e1071","Rgtsvm")
+  list_of_packages <- c("tools","raster","rgdal","tictoc","tcltk2","e1071","Rgtsvm")
 
   #Se la variabile "cuda_installed" è TRUE allora carica la libreria "Rgtsvm"
   if(cuda_installed){
